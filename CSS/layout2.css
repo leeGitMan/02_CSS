@@ -101,6 +101,7 @@
 .margin-auto{
     
     /* 좌우 요소간의 간격을 자동으로 지정하여 가운데 정렬 */
+    
     margin: auto;
 
     /* 
@@ -111,8 +112,9 @@
 
     -> 해결방법 : margin-top: 100px; 를 밑에 작성하여 auto를 덮어쓴다
     */
-
     margin-top: 100px;
+
+    
 }
 
 
