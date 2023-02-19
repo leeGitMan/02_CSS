@@ -1,0 +1,133 @@
+/* *{
+    border: 1px solid black;
+}
+
+
+
+
+.header{
+    height: 300px;
+    background-color: red;
+    color: white;
+}
+
+.nav{
+    height: 100px;
+    background-color: blue;
+    color: white;
+}
+
+.content{
+    height: 500px;
+    
+}
+
+.main-1-1{
+    flex-basis: 50%;
+    background-color: cornflowerblue;
+    display: flex;
+}
+
+.article1-1{
+    flex-basis: 50%;
+    height: 100px;
+    background-color: aqua;
+}
+
+.article1-2{
+    flex-basis:50%;
+    height: 100px;
+    background-color: bisque;
+}
+
+.section{
+    background-color: darkgoldenrod;
+    display: flex;
+    width: 50%;
+    height: 50%;
+    
+}
+
+
+.section-in-article{
+    background-color: blue;
+    flex-basis: 50%
+}
+
+
+.aside{
+    background-color: darkgoldenrod;
+    
+} */
+
+
+
+div{
+    border: 1px solid black;
+}
+
+.header{
+    height: 10vh;
+    border: 1px solid black;
+}
+
+
+.nav{
+    height: 5vh;
+    border: 1px solid black;
+}
+
+.main{
+    border: 1px solid red;
+    display: flex;
+    padding: 20px;
+}
+
+.main div{
+    border: 1px solid blue;
+    height: 20vh;
+    width: 50%;
+}
+
+
+
+.footer{
+    height: 10vh;
+    border: 1px solid black;
+}
+
+section{
+    display: flex;
+
+}
+
+.section{
+    padding: 10px;
+    width: 50%;
+    border: 1px solid green;
+    
+}
+
+.section div{
+    height: 10vh;
+    border: 1px solid hotpink;
+}
+
+.aside{
+    width: 50%;
+
+}
+
+.figure{
+    height: 20vh;
+}
+
+.img{
+    height: 10vh;
+    border: 1px solid hotpink;
+}
+
+.figcation{
+    height: 10vh;
+    border: 1px solid hotpink;
+}

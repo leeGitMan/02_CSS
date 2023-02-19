@@ -1,0 +1,56 @@
+
+*{
+    border: 1px solid red;
+}
+
+
+
+.Header{
+    background-color: black;
+    color: white;
+    height: 30vh;
+    
+}
+
+.Navigation-Menu{
+    background-color: brown;
+    color: white;
+    height: 200px;
+
+}
+
+.Content-1{
+    display: flex;
+    height: 300px;
+}
+
+.Content-1-1{
+    background-color: orange;
+    flex-basis: 30%;
+    
+}
+
+.Main-Content{
+    flex-basis: 40%;
+    background-color: blue;
+}
+
+.Content-3-1{
+    flex-basis:30%;
+    background-color: aqua;
+}
+
+.Footer{
+    background-color: chartreuse;
+    height: 150px;
+}
+
+
+
+
+
+
+
+
+
+
